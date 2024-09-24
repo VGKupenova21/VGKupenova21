@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viktoria</h1>
-<h3 align="center">A student at VSCPI</h3>
+<h3 align="center">I am a student at VSCPI</h3>
 
 ## 📫 How to reach me **VGKupenova21@codingburgas.bg**
 
